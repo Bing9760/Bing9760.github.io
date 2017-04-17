@@ -3,9 +3,9 @@ title: 小班的Blog
 subtitle: La vie.
 description: 欢迎来到我的个人网站~
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: Bing
 # 头像里面的描述
-avatarDesc: Python/机器学习/嵌入式
+avatarDesc: Sunshine.
 url: "http://robotkang.cc"
 
 # Comment
@@ -25,8 +25,8 @@ social:
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 144d500dd9ac4a65465a14b95f3e4ade 
+#baidu:
+#    id: 144d500dd9ac4a65465a14b95f3e4ade 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
